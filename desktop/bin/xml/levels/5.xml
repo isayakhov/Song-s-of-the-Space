@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<level>
+    <notes>
+	    <note delay="0.03f">c5</note>
+	    <note delay="0.05f">e5</note>
+	    <note delay="0.05f">g5</note>
+	    <note delay="0.05f">b5</note>
+	    <note delay="0.05f">c5</note>
+	    <note delay="0.05f">c5</note>
+	    <note delay="0.05f">e5</note>
+	    <note delay="0.05f">e5</note>
+	    <note delay="0.05f">g5</note>
+	    <note delay="0.05f">e5</note>
+	    <note delay="0.05f">b5</note>
+	    <note delay="0.05f">c5</note>
+    </notes>
+    <positions>
+		<position note="c5" x="20" y="30" />
+		<position note="e5" x="45" y="45" />
+		<position note="g5" x="60" y="70" />
+		<position note="b5" x="65" y="40" />
+	</positions>
+</level>

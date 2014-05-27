@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<langs>
+    <lang key="en">
+        <string key="Play">Play</string>
+        <string key="Exit">Exit</string>
+        <string key="Again">Again</string>
+        <string key="Levels">Levels</string>
+        <string key="YouWin">You win!</string>
+        <string key="Constellation">Constellation</string>
+        
+        <!-- Levels -->
+        <string key="level_1">Canes Venatici</string>
+        <string key="level_2">Triangulum</string>
+        <string key="level_3">Equuleus</string>
+        <string key="level_4">Apus</string>
+        <string key="level_5">Sagitta</string>
+        <string key="level_6">Musca</string>
+        <string key="level_7">Ursa Minor</string>
+        <string key="level_8">Orion</string>
+        <string key="level_9">Ursa Major</string>
+        <string key="level_10">Eridanus</string>
+        <string key="level_11">Lacerta</string>
+    </lang>
+    <lang key="ru">
+        <string key="Play">Играть</string>
+        <string key="Exit">Выход</string>
+        <string key="Again">Повторить</string>
+        <string key="Levels">Уровни</string>
+        <string key="YouWin">Вы победили!</string>
+        <string key="Constellation">Созвездие</string>
+        
+        <!-- Levels -->
+        <string key="level_1">Гончие псы</string>
+        <string key="level_2">Треугольник</string>
+        <string key="level_3">Малый Конь</string>
+        <string key="level_4">Райская Птица</string>
+        <string key="level_5">Стрела</string>
+        <string key="level_6">Муха</string>
+        <string key="level_7">Малая медведица</string>
+        <string key="level_8">Орион</string>
+        <string key="level_9">Большая медведица</string>
+        <string key="level_10">Эридан</string>
+        <string key="level_11">Ящерица</string>
+    </lang>
+</langs>

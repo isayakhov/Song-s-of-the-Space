@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<stars>
+    <star files="c5" />
+    <star files="c#5" />
+    <star files="d5" />
+    <star files="d#5" />
+    <star files="e5" />
+    <star files="f5" />
+    <star files="f#5" />
+    <star files="g5" />
+    <star files="g#5" />
+    <star files="a5" />
+    <star files="a#5" />
+    <star files="b5" />
+    
+    <star files="c6" />
+    <star files="c#6" />
+    <star files="d6" />
+    <star files="d#6" />
+    <star files="e6" />
+    <star files="f6" />
+    <star files="f#6" />
+    <star files="g6" />
+    <star files="g#6" />
+    <star files="a6" />
+    <star files="a#6" />
+    <star files="b6" />
+</stars>
