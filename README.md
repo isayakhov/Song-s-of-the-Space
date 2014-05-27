@@ -1,7 +1,7 @@
-Song-s-of-the-Space
+Song's of the Space
 ===================
 
-Song's of the Space Game
+Урок создания игры для сайта Habrahabr.ru.
 
 Сюда я буду добавлять используемые в уроках файлы и код.
 
